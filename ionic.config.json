@@ -1,0 +1,7 @@
+{
+  "name": "test-status-bar",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
